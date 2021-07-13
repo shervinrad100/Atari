@@ -16,6 +16,8 @@ Finally we want to create a React front end because I want to learn React and al
 - Please include ISSUE NUMBER in COMMIT MESSAGE 
 - DOCUMENT EVERYTHING! Please comment your code and add to the documentation so that a beginner using your code can understand the datastructers or parameters needed
 - Create tickets as issues. If you think there is a cool feature please share ideas as issues. Just make sure to label them properly and give descriptions
+- Don't forget to put tickets into the "In progress" column on the project Kanban to avoid duplicating work
+
 
 ### Dependencies 
 - python 3.7
