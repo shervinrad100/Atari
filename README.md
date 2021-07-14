@@ -20,7 +20,6 @@ Finally we want to create a React front end because I want to learn React and al
 
 
 ### Dependencies 
-- python 3.7
-  - list libs here
+- python 3
 - Docker 
   - (WSL if windows)
