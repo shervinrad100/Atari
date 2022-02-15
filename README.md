@@ -1,5 +1,5 @@
 # The Idea
-A practice to create a scalable cloud based app.
+A practice to create a scalable cloud based app in a team.
 
 ## Phase 1
 To have an Atari style gaming cartridge that can have mulitple games on it. The games are structured as microservices so that you can add or remove them and tweak them without breaking the whole game. We also want to add authentication capabilities so that we can track each user's score and collect data on what they play and how much. 
