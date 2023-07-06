@@ -7,7 +7,7 @@ colorama==0.4.4
 getpass4==0.0.8
 importlib-metadata==4.6.1
 iniconfig==1.1.1
-joblib==1.0.1
+joblib==1.2.0
 nltk==3.6.2
 numpy==1.21.0
 packaging==21.0
